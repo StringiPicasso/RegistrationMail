@@ -1,0 +1,14 @@
+﻿@model string
+
+<form method="post" asp-action="VerifyCode">
+    <h3>Введите код подтверждения, отправленный на адрес:</h3>
+    <p>@ViewBag.Email</p>
+
+    @if (!string.IsNullOrEmpty(ViewBag.ErrorMessage))
+    {
+        <p class="error">@ViewBag.ErrorMessage</p>
+    }
+
+    <input type="text" name="code" placeholder="Введите код" required />
+    <button type="submit">Подтвердить</button>
+</form>
