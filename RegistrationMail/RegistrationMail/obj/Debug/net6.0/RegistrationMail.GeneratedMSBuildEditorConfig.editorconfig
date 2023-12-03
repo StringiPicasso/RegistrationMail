@@ -16,24 +16,20 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Анастасия Еремина\Documents\GitHubTests\RegistrationMail\RegistrationMail\RegistrationMail
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Анастасия Еремина/Documents/GitHubTests/RegistrationMail/RegistrationMail/RegistrationMail/Views/Home/Register.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZWdpc3Rlci5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Анастасия Еремина/Documents/GitHubTests/RegistrationMail/RegistrationMail/RegistrationMail/Views/Home/Success.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTdWNjZXNzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Анастасия Еремина/Documents/GitHubTests/RegistrationMail/RegistrationMail/RegistrationMail/Views/Home/VerifyCode.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxWZXJpZnlDb2RlLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Анастасия Еремина/Documents/GitHubTests/RegistrationMail/RegistrationMail/RegistrationMail/Views/Shared/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/Анастасия Еремина/Documents/GitHubTests/RegistrationMail/RegistrationMail/RegistrationMail/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Анастасия Еремина/Documents/GitHubTests/RegistrationMail/RegistrationMail/RegistrationMail/Views/User/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Анастасия Еремина/Documents/GitHubTests/RegistrationMail/RegistrationMail/RegistrationMail/Views/User/Success.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxTdWNjZXNzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Анастасия Еремина/Documents/GitHubTests/RegistrationMail/RegistrationMail/RegistrationMail/Views/User/VerifyCode.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxWZXJpZnlDb2RlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Анастасия Еремина/Documents/GitHubTests/RegistrationMail/RegistrationMail/RegistrationMail/Views/_ViewImports.cshtml]

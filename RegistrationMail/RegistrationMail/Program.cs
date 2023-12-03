@@ -1,7 +1,13 @@
+using MailKit;
+using RegistrationMail.Models;
+using RegistrationMail.Services;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+builder.Services.Configure<GmailSettings>(builder.Configuration.GetSection("GmailSettings"));
+builder.Services.AddTransient<IMailService,MailService>();
 
 var app = builder.Build();
 
@@ -22,6 +28,6 @@ app.UseAuthorization();
 
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}");
+    pattern: "{controller=User}/{action=Register}/{id?}");
 
 app.Run();

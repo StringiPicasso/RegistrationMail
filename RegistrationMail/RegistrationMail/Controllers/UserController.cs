@@ -1,11 +1,26 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using System.Net.Mail;
 using System.Collections.Generic;
+using RegistrationMail.Models;
+using RegistrationMail.Services;
 
 namespace RegistrationMail.Controllers
 {
     public class UserController : Controller
     {
+        private readonly IMailService _mailService;
+
+        public UserController(IMailService mailService)
+        {
+            _mailService = mailService;
+        }
+
+        [HttpPost]
+        public bool SendMail(MailData mailData)
+        {
+            return _mailService.SendMail(mailData);
+        }
+
         [HttpGet]
         public IActionResult Register()
         {
