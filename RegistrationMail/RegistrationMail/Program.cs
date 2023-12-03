@@ -7,7 +7,8 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 builder.Services.Configure<GmailSettings>(builder.Configuration.GetSection("GmailSettings"));
-builder.Services.AddTransient<IMailService,MailService>();
+
+builder.Services.AddTransient<IGMailService,GMailService>();
 
 var app = builder.Build();
 

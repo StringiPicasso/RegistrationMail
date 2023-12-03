@@ -1,4 +1,6 @@
-﻿namespace RegistrationMail.Models
+﻿using static Org.BouncyCastle.Crypto.Engines.SM2Engine;
+
+namespace RegistrationMail.Models
 {
     public class MailData
     {

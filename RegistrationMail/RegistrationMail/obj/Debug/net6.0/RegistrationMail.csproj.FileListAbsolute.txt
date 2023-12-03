@@ -28,3 +28,13 @@ C:\Users\Анастасия Еремина\Documents\GitHubTests\RegistrationMai
 C:\Users\Анастасия Еремина\Documents\GitHubTests\RegistrationMail\RegistrationMail\RegistrationMail\obj\Debug\net6.0\RegistrationMail.pdb
 C:\Users\Анастасия Еремина\Documents\GitHubTests\RegistrationMail\RegistrationMail\RegistrationMail\obj\Debug\net6.0\RegistrationMail.genruntimeconfig.cache
 C:\Users\Анастасия Еремина\Documents\GitHubTests\RegistrationMail\RegistrationMail\RegistrationMail\obj\Debug\net6.0\ref\RegistrationMail.dll
+C:\Users\Анастасия Еремина\Documents\GitHubTests\RegistrationMail\RegistrationMail\RegistrationMail\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+C:\Users\Анастасия Еремина\Documents\GitHubTests\RegistrationMail\RegistrationMail\RegistrationMail\bin\Debug\net6.0\MailKit.dll
+C:\Users\Анастасия Еремина\Documents\GitHubTests\RegistrationMail\RegistrationMail\RegistrationMail\bin\Debug\net6.0\MimeKit.dll
+C:\Users\Анастасия Еремина\Documents\GitHubTests\RegistrationMail\RegistrationMail\RegistrationMail\bin\Debug\net6.0\System.Formats.Asn1.dll
+C:\Users\Анастасия Еремина\Documents\GitHubTests\RegistrationMail\RegistrationMail\RegistrationMail\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Анастасия Еремина\Documents\GitHubTests\RegistrationMail\RegistrationMail\RegistrationMail\bin\Debug\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\Анастасия Еремина\Documents\GitHubTests\RegistrationMail\RegistrationMail\RegistrationMail\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Анастасия Еремина\Documents\GitHubTests\RegistrationMail\RegistrationMail\RegistrationMail\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\Анастасия Еремина\Documents\GitHubTests\RegistrationMail\RegistrationMail\RegistrationMail\obj\Debug\net6.0\RegistrationMail.csproj.AssemblyReference.cache
+C:\Users\Анастасия Еремина\Documents\GitHubTests\RegistrationMail\RegistrationMail\RegistrationMail\obj\Debug\net6.0\RegistrationMail.csproj.CopyComplete
